@@ -3,10 +3,12 @@ Roteiro
 2 - Comments
 3 - Variables and assignments
 4 - Tipos: str int float
+	- pedir o tipo
+	- converter tipos
 5 - Operadores aritmeticos
-- Keyboard input
-- 
- - Booleans
+6 - Concatenando strings, formatando impressão: str+str,\n, 
+7 - Keyboard input
+8 - Booleans
  - Condições
  - Listas
  - While
